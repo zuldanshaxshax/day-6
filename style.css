@@ -1,0 +1,78 @@
+/* *{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: linear-gradient(to left , rgb(186, 127, 127) , orange);
+}
+.formContainer{
+    background-color: aqua;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    margin-top: 10px;
+
+}
+form{
+padding-left: 15%;
+}
+h1{
+color: blue;
+margin-bottom: 30px;
+padding-top: 20px;
+padding-left: 10px;
+}
+label{
+    border: none;
+    
+}
+input{
+    outline-color: red;
+}
+#a{
+    margin-top: 10px;
+}
+textarea{
+    outline-color: red;width: 150px; height: 50px;
+}
+button{
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 50px;
+
+}
+ */
+ .zuldan h1{
+    text-align: center;
+    font-weight: 900;
+    
+ }
+ table{
+    border: 1px solid grey;
+    margin: auto;
+    border-collapse: collapse;
+}
+table th{
+    padding: 8px 20px;
+    border-collapse: collapse;
+    border: 1px solid grey; 
+} 
+table td{
+    padding: 8px 20px;
+    color: white;
+    border-collapse: collapse;
+    border: 1px solid grey;
+}
+.zuldan{
+    background:linear-gradient( purple , red);
+    height: 300px;
+    width: 500px;
+    margin: auto;    
+
+}
+hr{
+    margin: 0 40px 0 40px;
+    margin-bottom: 30px;
+}
+
